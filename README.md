@@ -102,7 +102,7 @@ A decentralized advertising ecosystem leveraging blockchain and smart contracts 
 | Research & Planning | 2 months    | Whitepaper, blockchain selection      |
 | Development         | 6 months    | Smart contracts, MVP dashboard        |
 | Testing & Audits    | 3 months    | Security audits, testnet deployment   |
-| Mainnet Launch      | Q4 2024     | Full deployment, partnerships         |
+| Mainnet Launch      | Q4 2026    | Full deployment, partnerships         |
 
 ---
 
